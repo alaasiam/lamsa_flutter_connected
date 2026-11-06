@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": {
+    "id": 20,
+    "name": "لَمسة",
+    "slug": "lamsa",
+    "tagline": null,
+    "description": "في لمسة بنهتم بتفاصيل عنايتك.\nمنتجات مصنوعة بحب وبعناية، بمكونات مختارة، عشان تحسي بنعومة وراحة كل يوم.",
+    "logo": "https://souqna.toldpath.com/uploads/stores/20/c2f096c2-9270-425d-9e2d-f150c1e53eb6.webp",
+    "cover": "https://souqna.toldpath.com/uploads/stores/20/c5aaa55a-b289-436f-8a7c-f64156c99486.webp",
+    "type": {
+      "key": "cosmetics",
+      "name": "Beauty & Care",
+      "icon": "sparkles"
+    },
+    "theme": {
+      "name": "rose",
+      "primary_color": "#EBC1B3"
+    },
+    "contact": {
+      "phone": "+970592400530",
+      "whatsapp": "+972592400530",
+      "address": "غزة - الرمال - بجوار كابيتال مول"
+    },
+    "delivery": {
+      "fee": 15.0,
+      "min_order": 50.0
+    },
+    "currency": "ILS",
+    "currency_symbol": "₪"
+  }
+}
